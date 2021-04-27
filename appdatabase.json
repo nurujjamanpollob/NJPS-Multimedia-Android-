@@ -1,0 +1,28 @@
+{
+	
+	"studentsinfo": [
+
+	{
+
+	"id": "00",
+	"Name": "Nurujjaman Pollob",
+	"email": "nurujjamanpollob@gmail.com",
+	"sociallink": "https://www.linkedin.com/in/nurujjamanpallab",
+	"address": "Dhaka, Bangladesh",
+	"gender": "male",
+	"phone": {
+
+	"mobile": "+881856498616",
+	"home": "+881856498616",
+	"office": "+881856498616"
+	}
+
+
+
+
+}
+
+	]
+
+
+}
